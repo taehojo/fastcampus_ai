@@ -1,17 +1,12 @@
 # Fastcampus - AI의 시작부터 챗GPT까지
-
-### 입문자를 위한 딥러닝
-
 - Part1.	AI 현황 및 새로운 기회, 변화의 핵심, 미래에 대한 인사이트
 - Part2.	AI의 시작부터 챗GPT까지: 입문자를 위한 딥러닝
 
 ### 시작하기 전 필요한 것들
-
 - 파이썬 기초 사용법
 - 구글 계정
 
 ### 강의 학습자료
-
 0. [AI가 답을 구하는 원리 : 사과와 사과](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/00-colab.ipynb)
 1. [딥러닝 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/01-colab.ipynb)
 2. [데이터 처리 기법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/02-colab.ipynb)
@@ -25,3 +20,5 @@
 10. [생성형 적대 신경망, GAN](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/10-colab.ipynb)
 11. [어텐션의 핵심원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/11-colab.ipynb)
 12. [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/12-colab.ipynb)
+
+*보충 학습 자료
