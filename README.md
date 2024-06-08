@@ -1,24 +1,37 @@
 # Fastcampus - AI의 시작부터 챗GPT까지
-- Part1.	AI 현황 및 새로운 기회, 변화의 핵심, 미래에 대한 인사이트
-- Part2.	AI의 시작부터 챗GPT까지: 입문자를 위한 딥러닝
+
+## Part1. AI 현황 및 새로운 기회, 변화의 핵심, 미래에 대한 인사이트
+- **새 AI의 등장:** 질문하고, 검증하는 자가 앞서가는 시대
+- **실습:** [AI가 문맥을 파악하는 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/00-colab.ipynb)
+
+## Part2. AI의 시작부터 챗GPT까지: 입문자를 위한 딥러닝
 
 ### 시작하기 전 필요한 것들
 - 파이썬 기초 사용법
 - 구글 계정
 
 ### 강의 학습자료
-0. [AI가 답을 구하는 원리 : 사과와 사과](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/00-colab.ipynb)
-1. [딥러닝 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/01-colab.ipynb)
-2. [데이터 처리 기법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/02-colab.ipynb)
-3. [다중 분류 방법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/03-colab.ipynb)
-4. [모델 검증 전략](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/04-colab.ipynb)
-5. [성능 향상 기법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/05-colab.ipynb)
-6. [실데이터 적용 사례](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/06-colab.ipynb)
-7. [컨볼루션 신경망 실행하기](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/07-colab.ipynb)
-8. [CNN과 전이 학습](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/08-colab.ipynb)
-9. [설명 가능한 딥러닝](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/09-colab.ipynb)
-10. [생성형 적대 신경망, GAN](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/10-colab.ipynb)
-11. [어텐션의 핵심원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/11-colab.ipynb)
-12. [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/12-colab.ipynb)
 
-*보충 학습 자료
+#### 1교시: 일단 도전하는 나의 첫 딥러닝
+- **실습:** [딥러닝의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/01-colab.ipynb)
+
+#### 2교시: 딥러닝이 잘되는 이유를 이해하기
+- **실습:** [데이터 처리 기법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/02-colab.ipynb)
+
+#### 3교시: 이론이 실제 모델이 되기까지
+- **실습:** [실데이터로 도전하는 모델](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/03-colab.ipynb)
+
+#### 4교시: 제대로 도전하는 딥러닝
+- **실습:** [컨볼루션 신경망 실행하기](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/07-colab.ipynb)
+- **실습:** [전이학습 실행하기](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/08-colab.ipynb)
+
+#### 5교시: 조금씩 맛보는 고급 딥러닝
+- **실습:** [설명 가능한 딥러닝 모델 만들기](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/09-colab.ipynb)
+- **실습:** [생성형 이미지 딥러닝 실행](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/10-colab.ipynb)
+
+#### 6교시: 챗GPT의 원리, 트랜스포머 이해하기
+- **실습:** [어텐션의 핵심 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/11-colab.ipynb)
+- **실습:** [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/12-colab.ipynb)
+
+### 보충 학습 자료
+- 추가 학습 자료는 추후 제공될 예정입니다.
