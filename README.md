@@ -1,8 +1,10 @@
 # Fastcampus - AI의 시작부터 챗GPT까지
+<br><br>
 
 ## Part1. AI 현황 및 새로운 기회, 변화의 핵심, 미래에 대한 인사이트
 - **새 AI의 등장:** 질문하고, 검증하는 자가 앞서가는 시대
 - **실습:** [AI가 문맥을 파악하는 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/00-colab.ipynb)
+<br><br>
 
 ## Part2. AI의 시작부터 챗GPT까지: 입문자를 위한 딥러닝
 
