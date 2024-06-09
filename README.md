@@ -35,5 +35,5 @@
 - **실습:** [어텐션의 핵심 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/11-colab.ipynb)
 - **실습:** [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/12-colab.ipynb)
 
-### 보충 학습
+#### 보충 학습
 - **보충 자료:** [트랜스포머의 활용](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/13-colab.ipynb)
