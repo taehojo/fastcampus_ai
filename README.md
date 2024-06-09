@@ -15,7 +15,7 @@
 ### 강의 학습자료
 
 #### 1교시: 일단 도전하는 나의 첫 딥러닝
-- **실습:** [딥러닝의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/01-colab.ipynb)
+- **실습:** [구글 코랩 실행 및 딥러닝의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/01-colab.ipynb)
 
 #### 2교시: 딥러닝이 잘되는 이유를 이해하기
 - **실습:** [데이터 처리 기법](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/02-colab.ipynb)
@@ -35,5 +35,5 @@
 - **실습:** [어텐션의 핵심 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/11-colab.ipynb)
 - **실습:** [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/12-colab.ipynb)
 
-### 보충 학습 자료
-- 추가 학습 자료는 추후 제공될 예정입니다.
+### 보충 학습
+- **보충 자료:** [트랜스포머의 활용](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/13-colab.ipynb)
