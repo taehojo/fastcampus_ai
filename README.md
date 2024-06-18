@@ -40,3 +40,6 @@
 - **실습:** [어텐션의 핵심 원리](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/13-colab.ipynb)
 - **실습:** [트랜스포머의 기초](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/14-colab.ipynb)
 - **실습:** [트랜스포머의 활용](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/15-colab.ipynb)
+
+#### 보충학습 
+- **심화** [오차 역전파의 계산 PDF](./data/심화학습-오차역전파의_계산.pdf)
