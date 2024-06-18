@@ -44,3 +44,4 @@
 ---
 
 ##### [심화학습 - 오차 역전파의 계산 PDF](./data/심화학습-오차역전파의_계산.pdf)
+##### [참고 - 트랜스 포머 비교 (마스크드 어텐션)](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/16-colab.ipynb)
