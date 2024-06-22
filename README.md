@@ -1,4 +1,4 @@
-# Fastcampus - AI의 시작부터 챗GPT까지
+# Fastcampus - AI의 시작부터 챗GPT의 원리까지
 <br><br>
 
 ## Part1. AI 가 가져온 혁신, 활용, 작동 원리의 이해
@@ -39,7 +39,7 @@
 
 ---
 
-###### [심화학습 - 오차 역전파의 계산 PDF](./data/심화학습-오차역전파의_계산.pdf)
-###### [참고 - 마스크드 어텐션 비교](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/15-1-colab.ipynb)
+###### [심화학습 - 오차 역전파의 계산.pdf](./data/심화학습-오차역전파의_계산.pdf)
+###### [참고자료 - 마스크드 어텐션 비교](https://colab.research.google.com/github/taehojo/fastcampus_ai/blob/master/colab/15-1-colab.ipynb)
 
 ---
